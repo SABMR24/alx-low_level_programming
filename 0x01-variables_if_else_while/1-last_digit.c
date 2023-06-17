@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Assign a random number to n each time it is executed
  *
- * Return : Always 0 (Success)
-*/
+ * Return: Always 0
+ */
 
 int main(void)
 {
