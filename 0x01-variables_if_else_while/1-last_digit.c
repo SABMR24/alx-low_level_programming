@@ -6,7 +6,7 @@
 /**
  * main - Entry point
  *
- * Description: print the value of n status
+ * Description: print the value of n status greater than is not less than 6.
  *
  * Return : Always 0 (Success)
 */
