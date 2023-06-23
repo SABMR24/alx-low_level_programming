@@ -1,17 +1,17 @@
 #include "main.h"
 
 /**
- * mul - multiple two integer
+ * mul - multiples two integers
  * @a: integer
  * @b: integer
  *
- * return: x
+ * return: product
  */
 
 int mul(int a, int b);
 {
-	int x;
+	int product;
 
-	x = a * b;
-	return = (x);
+	product = a * b;
+	return = (product);
 }
