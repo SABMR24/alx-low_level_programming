@@ -8,10 +8,11 @@
  *Return: product.
  */
 
-int mul(int i, int j)
+int _isdigit(int i)
 {
-	int product;
-
-	product = i * j;
-	return (product);
+	if (i >= 0 && i <= 9)
+	{
+		return (1);
+	}
+	return (0);
 }
