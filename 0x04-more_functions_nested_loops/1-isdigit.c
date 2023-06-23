@@ -2,16 +2,16 @@
 
 /**
  *mul - multiplies two ints.
- *@a: integer.
- *@b: integer.
+ *@i: integer.
+ *@j: integer.
  *
  *Return: product.
  */
 
-int mul(int a, int b)
+int mul(int i, int j)
 {
 	int product;
 
-	product = a * b;
+	product = i * j;
 	return (product);
 }
