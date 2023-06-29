@@ -1,0 +1,1 @@
+point arra strin
